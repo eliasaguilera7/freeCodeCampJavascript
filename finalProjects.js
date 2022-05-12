@@ -14,7 +14,7 @@ palindrome("eye") should return a boolean.
 
 palindrome("eye") should return true.
 
-palindrome("_eye") should return true.
+palindrome("_eye") should return truee.
 
 palindrome("race car") should return true.
 
